@@ -5,7 +5,7 @@
         "main.scss"
     ],
     "names": [],
-    "file": "main.css"
+    "file": "main.css"090909090
 }const word = document.getElementById("word");
 const text = document.getElementById("text");
 const scoreElement = document.getElementById("score");
